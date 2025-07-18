@@ -183,14 +183,3 @@ docker-compose logs -f postgres
 docker-compose down -v
 docker-compose up -d
 ```
-
-## Contributing
-
-1. Follow the existing code style
-2. Add tests for new features
-3. Update documentation as needed
-4. Use static methods for service classes
-
-## License
-
-MIT License
