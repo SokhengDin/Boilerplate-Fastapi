@@ -129,5 +129,4 @@ Each template includes:
 5. Maintain type annotations
 
 ## 📄 License
-
-MIT License - Use freely for personal and commercial projects.
+ Use freely for personal and commercial projects.
