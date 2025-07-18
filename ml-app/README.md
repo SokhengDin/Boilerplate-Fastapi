@@ -248,18 +248,6 @@ EXPOSE 8000
 CMD ["python", "run.py"]
 ```
 
-## Contributing
-
-1. Follow the existing code style
-2. Add tests for new features
-3. Update documentation
-4. Test with various image formats
-5. Consider performance implications
-
-## License
-
-MIT License
-
 ## Resources
 
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
