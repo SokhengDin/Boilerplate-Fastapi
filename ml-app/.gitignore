@@ -1,0 +1,174 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ML specific
+models/
+*.model
+*.pkl
+*.h5
+*.ckpt
+*.safetensors
+checkpoints/
+runs/
+wandb/
+
+# Data
+data/
+datasets/
+*.csv
+*.json
+*.parquet
+*.feather
+
+# Image files (for testing/examples only - exclude large datasets)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+!example_images/
+!test_images/
+!sample_images/
+
+# HuggingFace cache
+.cache/
+transformers_cache/
+
+# PyTorch
+*.pth
+*.pt
+
+# TensorFlow
+*.pb
+saved_model/
+
+# Scikit-learn
+*.joblib
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Application specific
+uploads/
+temp/
+cache/
+results/
+experiments/
+
+# Docker
+.dockerignore
+
+# Security
+*.pem
+*.key
+*.crt
+*.csr
+secrets/
+
+# Local development
+local_settings.py
+settings_local.py
+
+# Pytest
+.pytest_cache/
+
+# pyenv
+.python-version
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Tensorboard
+logs/tensorboard/
+
+# Weights & Biases
+wandb/
+
+# Config files with sensitive info
+config_local.py
+secrets.yaml
+secrets.json
